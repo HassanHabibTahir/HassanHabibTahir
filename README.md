@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HassanHabibTahir
 - 👀 I’m interested in web3 and metaverse
-- 🌱 I’m currently learning javascript and web3
+- 🌱 I’m currently working and learning javascript and web3
 
 
 <!---
