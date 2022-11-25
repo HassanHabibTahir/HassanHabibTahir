@@ -5,7 +5,7 @@
 - ✨ Responsive Web Design
 - ✨ WEB3(Decentralized Applications Development)
 - ✨ WEB2 (Centralized Applications Development)
-- ✨ JavaScript ✨ REACT ✨ NODE ✨ TYPESCRIPT ✨ IPFS ✨ WEB3 ✨ NFTS ✨ Truffle ✨ hardhat ✨ Drizzle ✨ Web3 js ✨ Ethers js
+- ✨ JavaScript ✨ REACT ✨ NEXT ✨ NODE ✨ TYPESCRIPT ✨ IPFS ✨ WEB3 ✨ NFTS ✨ Truffle ✨ hardhat ✨ Drizzle ✨ Web3 js ✨ Ethers js
 
 
 
